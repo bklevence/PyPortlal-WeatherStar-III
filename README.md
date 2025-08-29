@@ -4,6 +4,8 @@ PyPortal based WeatherStar III using CircuitPython and NWS API
 > [!Warning]
 > Still having memory allocation issues, but it works, kinda?
 
+You should change the lat long and email if you attempt this currently, further writing to come...
+
 ## WIP Status
 
 - [ ] Further febug memory allocation issues
