@@ -1,0 +1,6 @@
+# Ignore local config and secrets
+settings.toml
+secrets.py
+# Ignore config/secrets anywhere
+**/settings.toml
+**/secrets.py
